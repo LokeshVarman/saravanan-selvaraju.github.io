@@ -10,7 +10,7 @@ google_analytics: "UA-112928594-2"
 disqus_account: 
 github_repository: https://github.com/saravanan-selvaraju
 addthis_id: 
-post_limit: 
+post_limit: 5
 
 # Social usernames/URLs
 twitter_username: iamsaravanan98
