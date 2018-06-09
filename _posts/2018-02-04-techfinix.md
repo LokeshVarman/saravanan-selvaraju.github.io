@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      Using thumbnails
-date:       2014-06-08 12:32:18
-summary:    Using thumbnails in your Carte Noire articles.
-categories: jekyll
-thumbnail: jekyll
+title:      Techfinix
+date:       2018-02-04 12:32:18
+summary:    TEchfinix 18.
+categories: symposioum
+thumbnail: symposioum
 tags:
  - thumbnails
  - carte noire
